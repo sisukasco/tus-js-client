@@ -1,4 +1,5 @@
 # tus-js-client
+forked and customized from [Tus client](https://github.com/tus/tus-js-client.git)
 
 <img alt="Tus logo" src="https://github.com/tus/tus.io/blob/master/assets/img/tus1.png?raw=true" width="30%" align="right" />
 
